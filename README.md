@@ -73,46 +73,53 @@
 
 **42cursus** comprises two groups of projects: the first one being known as _"inner circle"_ or _"common core"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout.
 
-The **inner circle** is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
+The **common core** is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
 
 The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
 
 The table below presents the cursus curriculum in the chronological order in which it is being completed by me - projects order may vary.
 
-### Inner Circle (basic curriculum)
+### Common core (basic curriculum)
 
-|CIRCLE	|PROJECT															|TECHNOLOGY				|MANDATORY					|BONUS					|
-|:-:	|:--																|:--					|:-:						|:-:					|
-|00		|[Libft](https://github.com/surfi89/lift/)		|C						| ✅        			| ✅       		|
-|:dizzy:|																	|						|							|						|
-|01		|[get_next_line]()													|C						|							|						|
-|01		|[ft_printf]()														|C						|							|						|
-|01		|[Born2beroot]()													|Networks				|							|						|
-|:dizzy:|																	|						|							|						|
-|02		|[push_swap]()														|docker, .sh, web, SQL	|							|						|
-|02		|[so_long]()														|C, Computer Graphics	|							|						|
-|02		|[FdF]()															|C, Computer Graphics	|							|						|
-|02		|[fract-ol]()														|C, Computer Graphics	|							|						|
-|02		|[pipex]()															|docker, .sh, web, SQL	|							|						|
-|02		|[minitalk]()														|docker, .sh, web, SQL	|							|						|
-|02		|Exam Rank 02														|-						|							|						|
-|:dizzy:|																	|						|							|						|
-|03		|[Philosophers]()													|Assembly				|							|						|
-|03		|[minishell]()														|C						|							|						|
-|03		|Exam Rank 03														|-						|							|						|
-|:dizzy:|																	|						|							|						|
-|04		|[NetPractice]()													|C						|							|						|
-|04		|[cub3d]()															|C						|							|						|
-|04		|[miniRT]()															|C						|							|						|
-|04		|[CPP Modules (9)]()												|C++					|							|						|
-|04		|Exam Rank 04														|-						|							|						|
-|:dizzy:|																	|						|							|						|
-|04		|[Inception]()														|C						|							|						|
-|04		|[ft_containers]()													|C						|							|						|
-|04		|[webserv]()														|C						|							|						|
-|04		|[ft_irc]()															|C						|							|						|
-|05		|Exam Rank 05														|-						|							|						|
-|:dizzy:|																	|						|							|						|
-|06		|[ft_transcendence]()												|?						|							|						|
-|06		|Exam Rank 06														|-						|							|						|
-|:dizzy:|																	|						|							|						|
+| Circle | Project                                                      |  Language  |                            Score                              |  Level   |
+| :----: | :----------------------------------------------------------- | :--------: | :-----------------------------------------------------------: | :------: |
+|00	 |[Libft](https://github.com/surfi89/lift/)		        |C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/Libft) | 1.05      |
+|:dizzy:|						                |	     |						                     |          |
+|01	 |[get_next_line](https://github.com/Surfi89/get_next_line)	|C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/get_next_line) |		  |
+|01	 |[ft_printf]()							|C	     |                                                               |		  |
+|01	 |[Born2beroot]()						|Networks    |							             |		 |
+|:dizzy:|								|	     |							             |		 |
+|02	 |[push_swap]()							|docker, .sh, web, SQL	|						     |	         |
+|02	 |[so_long]()							|C, Computer Graphics	|						     |		 |
+|02	 |[FdF]()							|C, Computer Graphics	|						     |		 |
+|02	 |[fract-ol]()							|C, Computer Graphics	|						     |		 |
+|02	 |[pipex]()							|docker, .sh, web, SQL	|						     |		 |
+|02	 |[minitalk]()							|docker, .sh, web, SQL	|						     |		 |
+|02	 |Exam Rank 02							|-			|						     |		 |
+|:dizzy:|								|			|						     |		 |
+|03	 |[Philosophers]()						|Assembly		|						     |		 |
+|03	 |[minishell]()							|C			|						     |		 |
+|03	 |Exam Rank 03							|-			|						     |		 |
+|:dizzy:|								|		        |						     |		 |
+|04	 |[NetPractice]()						|C			|						     |		 |
+|04	 |[cub3d]()							|C			|						     |		 |
+|04	 |[miniRT]()							|C			|						     |		 |
+|04	 |[CPP Modules (9)]()						|C++			|						     |		 |
+|04	 |Exam Rank 04							|-			|						     |		 |
+|:dizzy:|								|			|						     |		 |
+|04	 |[Inception]()							|C			|						     |		 |
+|04	 |[ft_containers]()						|C			|						     |		 |
+|04	 |[webserv]()							|C			|						     |		 |
+|04	 |[ft_irc]()							|C			|						     |		 |
+|05	 |Exam Rank 05							|-			|						     |		 |
+|:dizzy:|								|			|						     |		 |
+|06	 |[ft_transcendence]()						|?			|						     |		 |
+|06	 |Exam Rank 06							|-			|						     |		 |
+|:dizzy:|								|			|						     |		 |
+
+------
+
+## :camera: My Intra Profile
+
+[![ajordan's 42 stats](https://badge42.herokuapp.com/api/stats/ajordan-?privacyName=true)](https://profile.intra.42.fr/users/ajordan)
+
