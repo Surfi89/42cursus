@@ -119,7 +119,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 ------
 
-## :camera: My Intra Profile
+## :camera: My 42 Cursus Intra Profile
 
 [![ajordan's 42 stats](https://badge42.herokuapp.com/api/stats/ajordan-?privacyName=true)](https://profile.intra.42.fr/users/ajordan)
 
