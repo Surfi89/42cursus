@@ -85,8 +85,8 @@ The table below presents the cursus curriculum in the chronological order in whi
 | :----: | :----------------------------------------------------------- | :--------: | :-----------------------------------------------------------: | :------: |
 |00	 |[Libft](https://github.com/surfi89/lift/)		        |C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/Libft) | 1.05      |
 |:dizzy:|						                |	     |						                     |          |
-|01	 |[get_next_line](https://github.com/Surfi89/get_next_line)	|C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/get_next_line) |		  |
-|01	 |[ft_printf]()							|C	     |                                                               |		  |
+|01	 |[get_next_line](https://github.com/Surfi89/get_next_line)	|C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/get_next_line) | 1.54	 |
+|01	 |[ft_printf](https://github.com/Surfi89/ft_printf)		|C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/ft_printf)|	|
 |01	 |[Born2beroot]()						|Networks    |							             |		 |
 |:dizzy:|								|	     |							             |		 |
 |02	 |[push_swap]()							|docker, .sh, web, SQL	|						     |	         |
