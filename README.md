@@ -87,7 +87,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:dizzy:|						                |	     |						                     |          |
 |01	 |[get_next_line](https://github.com/Surfi89/get_next_line)	|C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/get_next_line) | 1.54	 |
 |01	 |[ft_printf](https://github.com/Surfi89/ft_printf)		|C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/ft_printf)| 1.94	|
-|01	 |[Born2beroot](https://github.com/Surfi89/Born2beroot)		|Networks    | ![](https://badge42.herokuapp.com/api/project/ajordan-/Born2beroot)      |		|
+|01	 |[Born2beroot](https://github.com/Surfi89/Born2beroot)		|Networks    | ![](https://badge42.herokuapp.com/api/project/ajordan-/Born2beroot)      | 2.18		|
 |:dizzy:|								|	     |							             |		 |
 |02	 |[push_swap]()							|docker, .sh, web, SQL	|						     |	         |
 |02	 |[so_long]()							|C, Computer Graphics	|						     |		 |
