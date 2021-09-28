@@ -95,7 +95,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |02	 |[fract-ol]()							|C, Computer Graphics	|						     |		 |
 |02	 |[pipex]()							|docker, .sh, web, SQL	|						     |		 |
 |02	 |[minitalk]()							|docker, .sh, web, SQL	|						     |		 |
-|02	 |Exam Rank 02							|-			|						     |		 |
+|02	 |Exam Rank 02							|-	| ![](https://badge42.herokuapp.com/api/project/ajordan-/exam-rank-02)	|	 |
 |:dizzy:|								|			|						     |		 |
 |03	 |[Philosophers]()						|Assembly		|						     |		 |
 |03	 |[minishell]()							|C			|						     |		 |
