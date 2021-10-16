@@ -100,7 +100,6 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:dizzy:|								|		        |						     |		 |
 |04	 |[NetPractice]()						|C			|						     |		 |
 |04	 |[cub3d]()							|C			|						     |		 |
-|04	 |[miniRT]()							|C			|						     |		 |
 |04	 |[CPP Modules (9)]()						|C++			|						     |		 |
 |04	 |Exam Rank 04							|-			|						     |		 |
 |:dizzy:|								|			|						     |		 |
