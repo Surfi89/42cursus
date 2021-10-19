@@ -7,3 +7,6 @@
 [submodule "00-libft"]
 	path = 00-libft
 	url = https://github.com/Surfi89/libft.git
+[submodule "01-get_next_line"]
+	path = 01-get_next_line
+	url = https://github.com/Surfi89/get_next_line.git
