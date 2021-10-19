@@ -7,3 +7,6 @@
 [submodule "01-Born2beroot"]
 	path = 01-Born2beroot
 	url = https://github.com/Surfi89/Born2beroot.git
+[submodule "00-libft"]
+	path = 00-libft
+	url = https://github.com/Surfi89/libft.git
