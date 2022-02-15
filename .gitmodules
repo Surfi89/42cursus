@@ -10,3 +10,6 @@
 [submodule "01-Born2beroot"]
 	path = 01-Born2beroot
 	url = https://github.com/Surfi89/Born2beroot.git
+[submodule "02-push_swap"]
+	path = 02-push_swap
+	url = https://github.com/Surfi89/push_swap.git
