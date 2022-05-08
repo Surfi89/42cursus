@@ -91,7 +91,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:dizzy:|								|	     |							             |		 |
 |02	 |[push_swap](https://github.com/Surfi89/push_swap)		|C	     | [![ajordan-'s 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2380373)](https://github.com/JaeSeoKim/badge42)| 2.96  |
 |02	 |[minitalk](https://github.com/Surfi89/minitalk)							|C	| [![ajordan-'s 42 minitalk Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2499061)](https://github.com/JaeSeoKim/badge42)						     |	3.21	 |
-|02	 |[so_long](https://github.com/Surfi89/so_long)							|C, Computer Graphics	| [![ajordan-'s 42 so_long Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2583960)](https://github.com/JaeSeoKim/badge42)						     |		 |
+|02	 |[so_long](https://github.com/Surfi89/so_long)							|C, Computer Graphics	| [![ajordan-'s 42 so_long Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2583960)](https://github.com/JaeSeoKim/badge42)						     |	3.42	 |
 |02	 |Exam Rank 02							|-	| [![ajordan-'s 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2370781)](https://github.com/JaeSeoKim/badge42)	|	 |
 |:dizzy:|								|			|						     |		 |
 |03	 |[Philosophers]()						|Assembly		|						     |		 |
