@@ -85,14 +85,14 @@ The table below presents the cursus curriculum in the chronological order in whi
 | :----: | :----------------------------------------------------------- | :--------: | :-----------------------------------------------------------: | :------: |
 |00	 |[Libft](https://github.com/surfi89/lift/)		        |C	     | [![ajordan-'s 42 Libft Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2254838)](https://github.com/JaeSeoKim/badge42) | 1.05      |
 |:dizzy:|						                |	     |						                     |          |
-|01	 |[get_next_line](https://github.com/Surfi89/get_next_line)	|C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/get_next_line) | 1.54	 |
-|01	 |[ft_printf](https://github.com/Surfi89/ft_printf)		|C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/ft_printf)| 1.95	|
-|01	 |[Born2beroot](https://github.com/Surfi89/Born2beroot)		|Networks    | ![](https://badge42.herokuapp.com/api/project/ajordan-/Born2beroot)      | 2.18		|
+|01	 |[get_next_line](https://github.com/Surfi89/get_next_line)	|C	     | [![ajordan-'s 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2292011)](https://github.com/JaeSeoKim/badge42) | 1.54	 |
+|01	 |[ft_printf](https://github.com/Surfi89/ft_printf)		|C	     | [![ajordan-'s 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2292011)](https://github.com/JaeSeoKim/badge42)| 1.95	|
+|01	 |[Born2beroot](https://github.com/Surfi89/Born2beroot)		|Networks    | [![ajordan-'s 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2338109)](https://github.com/JaeSeoKim/badge42)      | 2.18		|
 |:dizzy:|								|	     |							             |		 |
-|02	 |[push_swap](https://github.com/Surfi89/push_swap)		|C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/push_swap)| 2.96  |
-|02	 |[minitalk]()							|C	|						     |		 |
-|02	 |[so_long]()							|C, Computer Graphics	|						     |		 |
-|02	 |Exam Rank 02							|-	| ![](https://badge42.herokuapp.com/api/project/ajordan-/Exam%20Rank%2002)	|	 |
+|02	 |[push_swap](https://github.com/Surfi89/push_swap)		|C	     | [![ajordan-'s 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2380373)](https://github.com/JaeSeoKim/badge42)| 2.96  |
+|02	 |[minitalk]()							|C	| [![ajordan-'s 42 minitalk Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2499061)](https://github.com/JaeSeoKim/badge42)						     |		 |
+|02	 |[so_long]()							|C, Computer Graphics	| [![ajordan-'s 42 so_long Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2583960)](https://github.com/JaeSeoKim/badge42)						     |		 |
+|02	 |Exam Rank 02							|-	| [![ajordan-'s 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2370781)](https://github.com/JaeSeoKim/badge42)	|	 |
 |:dizzy:|								|			|						     |		 |
 |03	 |[Philosophers]()						|Assembly		|						     |		 |
 |03	 |[minishell]()							|C			|						     |		 |
@@ -117,5 +117,5 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 ## :camera: My 42 Cursus Intra Profile
 
-[![ajordan's 42 stats](https://badge42.herokuapp.com/api/stats/ajordan-)](https://profile.intra.42.fr/users/ajordan-)
+[![ajordan-'s 42 stats](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/stats?cursusId=21&coalitionId=173)](https://github.com/JaeSeoKim/badge42)
 
