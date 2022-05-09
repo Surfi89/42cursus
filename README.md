@@ -94,9 +94,9 @@ The table below presents the cursus curriculum in the chronological order in whi
 |02	 |[so_long](https://github.com/Surfi89/so_long)							|C, Computer Graphics	| [![ajordan-'s 42 so_long Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2583960)](https://github.com/JaeSeoKim/badge42)						     |	3.42	 |
 |02	 |Exam Rank 02							|-	| [![ajordan-'s 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2370781)](https://github.com/JaeSeoKim/badge42)	|	 |
 |:dizzy:|								|			|						     |		 |
-|03	 |[Philosophers]()						|Assembly		|						     |		 |
+|03	 |[Philosophers]()						|Assembly		|[![ajordan-'s 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2584443)](https://github.com/JaeSeoKim/badge42)						     |		 |
 |03	 |[minishell]()							|C			|						     |		 |
-|03	 |Exam Rank 03							|-			|						     |		 |
+|03	 |Exam Rank 03							|-			|[![ajordan-'s 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl2x5uevu002109jwhuo9pmin/project/2584442)](https://github.com/JaeSeoKim/badge42)					     |		 |
 |:dizzy:|								|		        |						     |		 |
 |04	 |[NetPractice]()						|Networking		|						     |		 |
 |04	 |[cub3d]()							|C, Computer Graphics	|						     |		 |
